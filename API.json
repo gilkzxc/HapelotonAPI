@@ -1,1 +1,2201 @@
-{}
+{
+    "2023": {
+        "Teams": {
+            "WorldTeam": {
+                "AG2R Citroën Team": {
+                    "ID": "21802",
+                    "Riders": [
+                        "Alex Baudin",
+                        "Clement Berthet",
+                        "Geoffrey Bouchard",
+                        "Mikaël Chérel",
+                        "Benoît Cosnefroy",
+                        "Stan Dewulf",
+                        "Felix Gall",
+                        "Pierre Gautherat",
+                        "Dorian Godon",
+                        "Jaakko Hänninen",
+                        "Paul Lapeira",
+                        "Lawrence Naesen",
+                        "Oliver Naesen",
+                        "Ben O'Connor",
+                        "Aurélien Paret-Peintre",
+                        "Valentin Paret-Peintre",
+                        "Nans Peters",
+                        "Nicolas Prodhomme",
+                        "Antoine Raugel",
+                        "Valentin Retailleau",
+                        "Marc Sarreau",
+                        "Michael Schär",
+                        "Damien Touzé",
+                        "Bastien Tronchon",
+                        "Greg Van Avermaet",
+                        "Andrea Vendrame",
+                        "Clément Venturini",
+                        "Lawrence Warbasse"
+                    ]
+                },
+                "Alpecin-Deceuninck": {
+                    "ID": "22369",
+                    "Riders": [
+                        "Søren Kragh Andersen",
+                        "Maurice Ballerstedt",
+                        "Tobias Bayer",
+                        "Nicola Conci",
+                        "Dries De Bondt",
+                        "Silvan Dillier",
+                        "Samuel Gaze",
+                        "Robbe Ghys",
+                        "Michael Gogl",
+                        "Kaden Groves",
+                        "Quinten Hermans",
+                        "Jimmy Janssens",
+                        "Alexander Krieger",
+                        "Senne Leysen",
+                        "Jakub Mareczko",
+                        "Xandro Meurisse",
+                        "Stefano Oldani",
+                        "Jason Osborne",
+                        "Jasper Philipsen",
+                        "Edward Planckaert",
+                        "Jensen Plowright",
+                        "Jonas Rickaert",
+                        "Oscar Riesebeek",
+                        "Kristian Sbaragli",
+                        "Ramon Sinkeldam",
+                        "Robert Stannard",
+                        "Lionel Taminiaux",
+                        "Fabio Van den Bossche",
+                        "Mathieu van der Poel",
+                        "Gianni Vermeersch"
+                    ]
+                },
+                "Astana Qazaqstan Team": {
+                    "ID": "23979",
+                    "Riders": [
+                        "Leonardo Basso",
+                        "Samuele Battistella",
+                        "Manuele Boaro",
+                        "Gleb Brussenskiy",
+                        "Igor Chzhan",
+                        "David De La Cruz",
+                        "Joe Dombrowski",
+                        "Yevgeniy Fedorov",
+                        "Fabio Felline",
+                        "Gianmarco Garofoli",
+                        "Yevgeniy Gidich",
+                        "Dmitriy Gruzdev",
+                        "Martin Laas",
+                        "Alexey Lutsenko",
+                        "Davide Martinelli",
+                        "Gianni Moscon",
+                        "Yuriy Natarov",
+                        "Antonio Nibali",
+                        "Nurbergen Nurlykhassym",
+                        "Vadim Pronskiy",
+                        "Alexandr Riabushenko",
+                        "Javier Romo",
+                        "Luis León Sánchez",
+                        "Cristian Scaroni",
+                        "Gleb Syritsa",
+                        "Harold Tejada",
+                        "Simone Velasco",
+                        "Artyom Zakharov",
+                        "Andrey Zeits"
+                    ]
+                },
+                "Bahrain Victorious": {
+                    "ID": "22726",
+                    "Riders": [
+                        "Yukiya Arashiro",
+                        "Nikias Arndt",
+                        "Phil Bauhaus",
+                        "Pello Bilbao",
+                        "Santiago Buitrago",
+                        "Damiano Caruso",
+                        "Matevz Govekar",
+                        "Kamil Gradek",
+                        "Jack Haig",
+                        "Heinrich Haussler",
+                        "Rainer Kepplinger",
+                        "Mikel Landa",
+                        "Filip Maciejuk",
+                        "Ahmed Madan",
+                        "Fran Miholjevic",
+                        "Jonathan Milan",
+                        "Matej Mohoric",
+                        "Gino Mäder",
+                        "Andrea Pasqualon",
+                        "Hermann Pernsteiner",
+                        "Wout Poels",
+                        "Johan Price-Pejtersen",
+                        "Dusan Rajovic",
+                        "Cameron Scott",
+                        "Jasha Sütterlin",
+                        "Chih Hao Tu",
+                        "Fred Wright",
+                        "Edoardo Zambanini"
+                    ]
+                },
+                "BORA-hansgrohe": {
+                    "ID": "22246",
+                    "Riders": [
+                        "Giovanni Aleotti",
+                        "Shane Archbold",
+                        "Cesare Benedetti",
+                        "Sam Bennett",
+                        "Emanuel Buchmann",
+                        "Nico Denz",
+                        "Matteo Fabbro",
+                        "Patrick Gamper",
+                        "Marco Haller",
+                        "Sergio Higuita",
+                        "Jai Hindley",
+                        "Bob Jungels",
+                        "Jonas Koch",
+                        "Patrick Konrad",
+                        "Victor Koretzky",
+                        "Lennard Kämna",
+                        "Florian Lipowitz",
+                        "Luis-Joe Lührs",
+                        "Jordi Meeus",
+                        "Ryan Mullen",
+                        "Anton Palzer",
+                        "Nils Politt",
+                        "Maximilian Schachmann",
+                        "Ide Schelling",
+                        "Cian Uijtdebroeks",
+                        "Danny van Poppel",
+                        "Aleksandr Vlasov",
+                        "Matthew Walls",
+                        "Frederik Wandahl",
+                        "Ben Zwiehoff"
+                    ]
+                },
+                "Cofidis": {
+                    "ID": "23414",
+                    "Riders": [
+                        "Piet Allegaert",
+                        "François Bidard",
+                        "André Carvalho",
+                        "Thomas Champion",
+                        "Davide Cimolai",
+                        "Simone Consonni",
+                        "Bryan Coquard",
+                        "Alexandre Delettre",
+                        "Ruben Fernandez",
+                        "Eddy Finé",
+                        "Simon Geschke",
+                        "Jesus Herrada",
+                        "Jose Herrada",
+                        "Ion Izagirre",
+                        "Wesley Kreder",
+                        "Victor Lafay",
+                        "Jonathan Lastra",
+                        "Axel Mariault",
+                        "Guillaume Martin",
+                        "Christophe Noppe",
+                        "Anthony Perez",
+                        "Pierre-Luc Périchon",
+                        "Alexis Renard",
+                        "Rémy Rochas",
+                        "Benjamin Thomas",
+                        "Hugo Toumire",
+                        "Jelle Wallays",
+                        "Max Walscheid",
+                        "Harrison Wood",
+                        "Axel Zingle"
+                    ]
+                },
+                "EF Education-EasyPost": {
+                    "ID": "27133",
+                    "Riders": [
+                        "Andrey Amador",
+                        "Alberto Bettiol",
+                        "Stefan Bissegger",
+                        "Jonathan Caicedo",
+                        "Diego Camargo",
+                        "Richard Carapaz",
+                        "Simon Carr",
+                        "Hugh Carthy",
+                        "Alexander Cepeda",
+                        "Esteban Chaves",
+                        "Magnus Cort",
+                        "Stefan de Bod",
+                        "Owain Doull",
+                        "Odd Christian Eiking",
+                        "Ben Healy",
+                        "Mikkel Honore",
+                        "Jens Keukeleire",
+                        "Merhawi Kudus",
+                        "Mark Padun",
+                        "Andrea Piccolo",
+                        "Neilson Powless",
+                        "Sean Quinn",
+                        "Jonas Rutsch",
+                        "Thomas Scully",
+                        "James Shaw",
+                        "Georg Steinhauser",
+                        "Rigoberto Uran",
+                        "Julius van den Berg",
+                        "Marijn van den Berg",
+                        "Lukasz Wisniowski"
+                    ]
+                },
+                "Groupama-FDJ": {
+                    "ID": "21815",
+                    "Riders": [
+                        "Bruno Armirail",
+                        "Lewis Askey",
+                        "Clément Davy",
+                        "Arnaud Démare",
+                        "David Gaudu",
+                        "Kevin Geniets",
+                        "Lorenzo Germani",
+                        "Romain Grégoire",
+                        "Ignatas Konovalovas",
+                        "Stefan Küng",
+                        "Matthieu Ladagnous",
+                        "Olivier Le Gac",
+                        "Fabian Lienhard",
+                        "Valentin Madouas",
+                        "Lenny Martinez",
+                        "Rudy Molard",
+                        "Quentin Pacher",
+                        "Enzo Paleni",
+                        "Paul Penhoët",
+                        "Thibaut Pinot",
+                        "Laurence Pithie",
+                        "Miles Scotson",
+                        "Jake Stewart",
+                        "Michael Storer",
+                        "Reuben Thompson",
+                        "Lars Van Den Berg",
+                        "Sam Watson",
+                        "Bram Welten"
+                    ]
+                },
+                "INEOS Grenadiers": {
+                    "ID": "21828",
+                    "Riders": [
+                        "Thymen Arensman",
+                        "Egan Bernal",
+                        "Jonathan Castroviejo",
+                        "Laurens De Plus",
+                        "Omar Fraile",
+                        "Filippo Ganna",
+                        "Tao Geoghegan Hart",
+                        "Ethan Hayter",
+                        "Leo Hayter",
+                        "Kim Heiduk",
+                        "Michal Kwiatkowski",
+                        "Michael Leonard",
+                        "Daniel Martinez",
+                        "Jhonnatan Narvaez",
+                        "Tom Pidcock",
+                        "Lucas Plapp",
+                        "Salvatore Puccio",
+                        "Brandon Rivera",
+                        "Carlos Rodriguez",
+                        "Luke Rowe",
+                        "Magnus Sheffield",
+                        "Pavel Sivakov",
+                        "Ben Swift",
+                        "Connor Swift",
+                        "Joshua Tarling",
+                        "Geraint Thomas",
+                        "Ben Tulett",
+                        "Ben Turner",
+                        "Elia Viviani"
+                    ]
+                },
+                "Intermarché-Circus-Wanty": {
+                    "ID": "27884",
+                    "Riders": [
+                        "Niccolo Bonifazio",
+                        "Sven Erik Bystrøm",
+                        "Lilian Calmejane",
+                        "Rui Costa",
+                        "Aimé De Gendt",
+                        "Dries De Pooter",
+                        "Biniam Girmay",
+                        "Kobe Goossens",
+                        "Rune Herregodts",
+                        "Laurens Huys",
+                        "Julius Johansen",
+                        "Arne Marit",
+                        "Louis Meintjes",
+                        "Madis Mihkels",
+                        "Hugo Page",
+                        "Tom Paquot",
+                        "Simone Petilli",
+                        "Adrien Petit",
+                        "Baptiste Planckaert",
+                        "Laurenz Rex",
+                        "Lorenzo Rota",
+                        "Dion Smith",
+                        "Rein Taaramäe",
+                        "Mike Teunissen",
+                        "Gerben Thijssen",
+                        "Taco van der Hoorn",
+                        "Boy van Poppel",
+                        "Loic Vliegen",
+                        "Georg Zimmermann"
+                    ]
+                },
+                "Jumbo-Visma": {
+                    "ID": "21831",
+                    "Riders": [
+                        "Edoardo Affini",
+                        "Tiesj Benoot",
+                        "Koen Bouwman",
+                        "Rohan Dennis",
+                        "Tobias Foss",
+                        "Robert Gesink",
+                        "Thomas Gloag",
+                        "Michel Heßmann",
+                        "Lennard Hofstede",
+                        "Wilco Kelderman",
+                        "Olav Kooij",
+                        "Steven Kruijswijk",
+                        "Sepp Kuss",
+                        "Christophe Laporte",
+                        "Gijs Leemreize",
+                        "Sam Oomen",
+                        "Primoz Roglic",
+                        "Timo Roosen",
+                        "Jan Tratnik",
+                        "Milan Vader",
+                        "Attila Valter",
+                        "Wout van Aert",
+                        "Dylan van Baarle",
+                        "Tosh Van der Sande",
+                        "Mick  van Dijke",
+                        "Tim van Dijke",
+                        "Jos Van Emden",
+                        "Nathan Van Hooydonck",
+                        "Jonas Vingegaard"
+                    ]
+                },
+                "Movistar Team": {
+                    "ID": "22310",
+                    "Riders": [
+                        "Alex Aranburu",
+                        "Jorge Arcas",
+                        "William Barta",
+                        "Imanol Erviti",
+                        "Iván García Cortina",
+                        "Fernando Gaviria",
+                        "Abner González",
+                        "Ruben Guerreiro",
+                        "Juri Hollmann",
+                        "Gorka Izagirre",
+                        "Johan Jacobs",
+                        "Matteo Jorgenson",
+                        "Max Kanter",
+                        "Oier Lazkano",
+                        "Enric Mas",
+                        "Lluis Mas",
+                        "Gregor Muhlberger",
+                        "Mathias Norsgaard",
+                        "Nelson Oliveira",
+                        "Antonio Pedrero",
+                        "Vinicius Rangel",
+                        "Óscar Rodríguez",
+                        "José Joaquin Rojas",
+                        "Ivan Romeo",
+                        "Einer Rubio",
+                        "Sergio Samitier",
+                        "Gonzalo Serrano",
+                        "Ivan Sosa",
+                        "Albert Torres",
+                        "Carlos Verona"
+                    ]
+                },
+                "Soudal-Quickstep": {
+                    "ID": "21810",
+                    "Riders": [
+                        "Julian Alaphilippe",
+                        "Kasper Asgreen",
+                        "Andrea Bagioli",
+                        "Davide Ballerini",
+                        "Mattia Cattaneo",
+                        "Remi Cavagna",
+                        "Josef Cerný",
+                        "Tim Declercq",
+                        "Dries Devenyns",
+                        "Remco Evenepoel",
+                        "Jan Hirt",
+                        "Fabio Jakobsen",
+                        "James Knox",
+                        "Yves Lampaert",
+                        "Fausto Masnada",
+                        "Tim Merlier",
+                        "Michael Mørkøv",
+                        "Casper Pedersen",
+                        "Mauro Schmid",
+                        "Florian Sénéchal",
+                        "Pieter Serry",
+                        "Jannik Steimle",
+                        "Martin Svrcek",
+                        "Bert Van Lerberghe",
+                        "Stan Van Tricht",
+                        "Ilan Van Wilder",
+                        "Mauri Vansevenant",
+                        "Ethan Vernon",
+                        "Louis Vervaeke"
+                    ]
+                },
+                "Team Arkéa-Samsic": {
+                    "ID": "24592",
+                    "Riders": [
+                        "Warren Barguil",
+                        "Louis Barré",
+                        "Jenthe Biermans",
+                        "Maxime Bouet",
+                        "Nacer Bouhanni",
+                        "Amaury Capiot",
+                        "Clément Champoussin",
+                        "Ewen Costiou",
+                        "David Dekker",
+                        "Anthony Delaplace",
+                        "Nicolas Edet",
+                        "Elie Gesbert",
+                        "Donavan Grondin",
+                        "Thibault Guernalec",
+                        "Simon Guglielmi",
+                        "Hugo Hofstetter",
+                        "Mathis Le Berre",
+                        "Kevin Ledanois",
+                        "Matis Louvel",
+                        "Daniel McLay",
+                        "Luca Mozzato",
+                        "Lukasz Owsian",
+                        "Laurent Pichon",
+                        "Andrii Ponomar",
+                        "Michel Ries",
+                        "Alan Riou",
+                        "Cristian Rodriguez",
+                        "Clément Russo",
+                        "Kévin Vauquelin",
+                        "Alessandro Verre"
+                    ]
+                },
+                "Team DSM": {
+                    "ID": "21834",
+                    "Riders": [
+                        "Romain Bardet",
+                        "Patrick Bevin",
+                        "Pavel Bittner",
+                        "Marco Brenner",
+                        "Romain Combaud",
+                        "Alberto Dainese",
+                        "John Degenkolb",
+                        "Matthew Dinham",
+                        "Alex Edmondson",
+                        "Nils Eekhoff",
+                        "Sean Flynn",
+                        "Chris Hamilton",
+                        "Leon Heinschke",
+                        "Jonas Iversby Hvideberg",
+                        "Andreas Leknessund",
+                        "Tobias Lund Andresen",
+                        "Marius Mayrhofer",
+                        "Lorenzo Milesi",
+                        "Niklas Märkl",
+                        "Tim Naberman",
+                        "Oscar Onley",
+                        "Max Poole",
+                        "Frederik Rodenberg",
+                        "Florian Stork",
+                        "Martijn Tusveld",
+                        "Casper van Uden",
+                        "Henri Vandenabeele",
+                        "Harm Vanhoucke",
+                        "Kevin Vermaerke",
+                        "Sam Welsford"
+                    ]
+                },
+                "Team Jayco-AlUla": {
+                    "ID": "28389",
+                    "Riders": [
+                        "Alexandre Balmer",
+                        "Welay Berhe",
+                        "Kevin Colleoni",
+                        "Lawson Craddock",
+                        "Alessandro De Marchi",
+                        "Edward Dunbar",
+                        "Luke Durbridge",
+                        "Felix Engelhardt",
+                        "Tsgabu Grmay",
+                        "Dylan Groenewegen",
+                        "Lucas Hamilton",
+                        "Chris Harper",
+                        "Michael Hepburn",
+                        "Amund Grøndahl Jansen",
+                        "Christopher Juul-Jensen",
+                        "Jan Maas",
+                        "Michael Matthews",
+                        "Luka Mezgec",
+                        "Kelland O'Brien",
+                        "Jesus David Peña",
+                        "Rudy Porter",
+                        "Lukas Pöstlberger",
+                        "Blake Quick",
+                        "Elmar Reinders",
+                        "Callum Scotson",
+                        "Matteo Sobrero",
+                        "Campbell Stewart",
+                        "Zdenek Stybar",
+                        "Simon Yates",
+                        "Filippo Zana"
+                    ]
+                },
+                "Trek-Segafredo": {
+                    "ID": "25886",
+                    "Riders": [
+                        "Jon Aberasturi",
+                        "Filippo Baroncini",
+                        "Julien Bernard",
+                        "Marc Brustenga",
+                        "Dario Cataldo",
+                        "Giulio Ciccone",
+                        "Kenny Elissonde",
+                        "Tony Gallopin",
+                        "Amanuel Gebreigzabhier",
+                        "Asbjørn Hellemose",
+                        "Markus Hoelgaard",
+                        "Daan Hoole",
+                        "Alex Kirsch",
+                        "Emils Liepins",
+                        "Juan Pedro Lopez",
+                        "Bauke Mollema",
+                        "Jacopo Mosca",
+                        "Thibau Nys",
+                        "Mads Pedersen",
+                        "Quinn Simmons",
+                        "Mattias Skjelmose Jensen",
+                        "Toms Skujins",
+                        "Jasper Stuyven",
+                        "Natnael Tesfazion",
+                        "Edward Theuns",
+                        "Antonio Tiberi",
+                        "Antwan Tolhoek",
+                        "Mathias Vacek",
+                        "Otto Vergaerde"
+                    ]
+                },
+                "UAE Team Emirates": {
+                    "ID": "21840",
+                    "Riders": [
+                        "Pascal Ackermann",
+                        "Joao Almeida",
+                        "Juan Ayuso",
+                        "Sjoerd Bax",
+                        "George Bennett",
+                        "Mikkel Bjerg",
+                        "Alessandro Covi",
+                        "Finn Fisher-Black",
+                        "Davide Formolo",
+                        "Ryan Gibbons",
+                        "Felix Groß",
+                        "Felix Großschartner",
+                        "Marc Hirschi",
+                        "Alvaro Hodeg",
+                        "Vegard Stake Laengen",
+                        "Rafal Majka",
+                        "Brandon McNulty",
+                        "Sebastian Molano",
+                        "Domen Novak",
+                        "Ivo Oliveira",
+                        "Rui Oliveira",
+                        "Tadej Pogacar",
+                        "Jan Polanc",
+                        "Marc Soler",
+                        "Matteo Trentin",
+                        "Diego Ulissi",
+                        "Jay Vine",
+                        "Michael Vink",
+                        "Tim Wellens",
+                        "Adam Yates"
+                    ]
+                }
+            },
+            "ProTeam": {
+                "Bingoal WB": {
+                    "ID": "27800",
+                    "Riders": [
+                        "Louis Blouwe",
+                        "Dorian De Maeght",
+                        "Floris De Tier",
+                        "Cériel Desal",
+                        "Alexis Guérin",
+                        "Karl Patrick Lauk",
+                        "Matteo Malucelli",
+                        "Johan Meens",
+                        "Julian Mertens",
+                        "Remy Mertz",
+                        "Dimitri Peyskens",
+                        "Ludovic Robeet",
+                        "Alexander Salby",
+                        "Lennert Teugels",
+                        "Marco Tizza",
+                        "Luca Van Boven",
+                        "Aaron Van Der Beken",
+                        "Guillaume Van Keirsbulck",
+                        "Kenneth Van Rooy",
+                        "Nathan Vandepitte"
+                    ]
+                },
+                "Bolton Equities Black Spoke": {
+                    "ID": "33369",
+                    "Riders": [
+                        "Ethan Batt",
+                        "Matthew Bostock",
+                        "Josh Burnett",
+                        "Ryan Christensen",
+                        "Logan Currie",
+                        "Mitchel Fitzsimons",
+                        "James Fouche",
+                        "Aaron Gate",
+                        "Regan Gough",
+                        "George Jackson",
+                        "Ollie Jones",
+                        "Josh Kench",
+                        "Luke Mudgway",
+                        "Bailey O'Donnell",
+                        "James Oram",
+                        "Jacob Scott",
+                        "Tom Sexton",
+                        "Mark Stewart",
+                        "Rory Townsend",
+                        "Paul Wright"
+                    ]
+                },
+                "Burgos-BH": {
+                    "ID": "28133",
+                    "Riders": [
+                        "Clément Alleno",
+                        "Rodrigo Alvarez Rodriguez",
+                        "Antonio Angulo",
+                        "Mario Aparicio",
+                        "Andres Ardila",
+                        "Cyril Barthe",
+                        "Jetse Bol",
+                        "Jose Manuel Diaz",
+                        "Jesus Ezquerra",
+                        "Eric Fagundez",
+                        "Miguel Angel Fernandez",
+                        "Alejandro Franco",
+                        "Angel Fuentes",
+                        "Victor Langellotti",
+                        "Angel Madrazo",
+                        "Daniel Navarro",
+                        "Ander Okamika",
+                        "Felipe Orts Lloret",
+                        "Óscar Pelegrí",
+                        "Manuel Peñalver",
+                        "Pelayo Sanchez Mayo"
+                    ]
+                },
+                "Caja Rural-Seguros RGA": {
+                    "ID": "28058",
+                    "Riders": [
+                        "Julen Amezqueta",
+                        "Orluis Aular",
+                        "Daniel Babor",
+                        "Abel Balderstone",
+                        "Fernando Barceló",
+                        "Jon Barrenetxea",
+                        "Tomas Barta",
+                        "Jefferson Cepeda",
+                        "Josu Etxeberria",
+                        "Jhojan Garcia",
+                        "David González",
+                        "Mulu Hailemichael",
+                        "Calum Johnston",
+                        "Iuri Leitao",
+                        "Joseba Lopez",
+                        "Sergio Martin",
+                        "Jokin Murguialday",
+                        "Joel Nicolau",
+                        "Yesid Pira",
+                        "Eduard Prades",
+                        "Michal Schlegel"
+                    ]
+                },
+                "EOLO-Kometa Cycling Team": {
+                    "ID": "27876",
+                    "Riders": [
+                        "Vincenzo Albanese",
+                        "Davide Bais",
+                        "Mattia Bais",
+                        "Simone Bevilacqua",
+                        "Alessandro Fancellu",
+                        "Erik Fetter",
+                        "Lorenzo Fortunato",
+                        "Andrea Garosio",
+                        "Francesco Gavazzi",
+                        "Giovanni Lonardi",
+                        "Mirco Maestri",
+                        "Alex Martin",
+                        "David Martin",
+                        "Andrea Pietrobon",
+                        "Davide Piganzoli",
+                        "Simone Raccani",
+                        "Samuele Rivi",
+                        "Javier Serrano",
+                        "Diego Sevilla",
+                        "Fernando Tercero"
+                    ]
+                },
+                "Equipo Kern Pharma": {
+                    "ID": "22926",
+                    "Riders": [
+                        "Roger Adriá",
+                        "Jon Agirre",
+                        "Igor Arrieta",
+                        "Urko Berrade",
+                        "Giovanni Carboni",
+                        "Hector Carretero",
+                        "Pablo Castrillo",
+                        "Ivan Cobo Cayon",
+                        "Iñigo Elosegui",
+                        "Francisco Galván",
+                        "Carlos Garcia",
+                        "Raúl García",
+                        "Alex Jaime",
+                        "Jordi Lopez Caravaca",
+                        "Martí  Márquez",
+                        "Pau Miquel Delgado",
+                        "José Félix Parra",
+                        "Vojtech Repa",
+                        "Mikel Retegi",
+                        "Ibon Ruiz",
+                        "Eugenio Sanchez",
+                        "Danny Van der Tuuk"
+                    ]
+                },
+                "Euskaltel-Euskadi": {
+                    "ID": "22017",
+                    "Riders": [
+                        "Enekoitz Azparren",
+                        "Xabier Azparren",
+                        "Ibai Azurmendi",
+                        "Iker Ballarin",
+                        "Xabier Berasategi",
+                        "Mikel Bizkarra",
+                        "Joan Bou",
+                        "Carlos Canal",
+                        "Unai Cuadrado",
+                        "Asier Etxeberria",
+                        "Peio Goikoetxea",
+                        "Unai Iribar",
+                        "Xabier Isasa",
+                        "Mikel Iturria",
+                        "Txomin Juaristi",
+                        "Juan Jose Lobato",
+                        "Andoni Lopez de Abetxuko",
+                        "Gotzon Martin",
+                        "Luis Angel Mate",
+                        "Antonio Soto"
+                    ]
+                },
+                "Green Project-Bardiani CSF-Faizanè": {
+                    "ID": "22727",
+                    "Riders": [
+                        "Iker Bonillo",
+                        "Luca Colnaghi",
+                        "Lorenzo Conforti",
+                        "Luca Covili",
+                        "Omar El Gouzi",
+                        "Filippo Fiorelli",
+                        "Davide Gabburo",
+                        "Riccardo Lucca",
+                        "Filippo Magli",
+                        "Martin Marcellusi",
+                        "Alessio Martinelli",
+                        "Henok Mulubrhan",
+                        "Alessio Nieri",
+                        "Luca Paletti",
+                        "Giulio Pellizzari",
+                        "Mattia Petrucci",
+                        "Alessandro Pinarello",
+                        "Luca Rastelli",
+                        "Alessandro Santaromita",
+                        "Matteo Scalco",
+                        "Jared Scott",
+                        "Manuele Tarozzi",
+                        "Alex Tolio",
+                        "Alessandro Tonelli",
+                        "Enrico Zanoncello",
+                        "Samuele Zoccarato"
+                    ]
+                },
+                "Human Powered Health": {
+                    "ID": "28220",
+                    "Riders": [
+                        "Kristian Aasvold",
+                        "Stanislaw Aniolkowski",
+                        "Alan Banaszek",
+                        "Stephen Bassett",
+                        "Charles-Etienne Chrétien",
+                        "Pier-André Côté",
+                        "Adam De Vos",
+                        "Paul Double",
+                        "Matthew Gibson",
+                        "Cory Greenberg",
+                        "Chad Haga",
+                        "Gage Hecht",
+                        "August Jensen",
+                        "Colin Joyce",
+                        "Wessel Krul",
+                        "Bart Lemmen",
+                        "Scott McGill",
+                        "Barnabas Peak",
+                        "Ben Perry",
+                        "Embret Svestad-Bårdseng",
+                        "Gijs Van Hoecke",
+                        "Sasha Weemaes"
+                    ]
+                },
+                "Israel-Premier Tech": {
+                    "ID": "22311",
+                    "Riders": [
+                        "Sebastian Berwick",
+                        "Guillaume Boivin",
+                        "Simon Clarke",
+                        "Itamar Einhorn",
+                        "Marco Frigo",
+                        "Chris Froome",
+                        "Jakob Fuglsang",
+                        "Derek Gee",
+                        "Omer Goldstein",
+                        "Ben Hermans",
+                        "Reto Hollenstein",
+                        "Mason Hollyman",
+                        "Hugo Houle",
+                        "Daryl Impey",
+                        "Taj Jones",
+                        "Krists Neilands",
+                        "Giacomo Nizzolo",
+                        "Jens Reynders",
+                        "Matthew Riccitello",
+                        "Guy Sagiv",
+                        "Nick Schultz",
+                        "Corbin Strong",
+                        "Dylan Teuns",
+                        "Tom Van Asbroeck",
+                        "Sep Vanmarcke",
+                        "Stephen Williams",
+                        "Michael Woods",
+                        "Mads Würtz Schmidt",
+                        "Rick Zabel"
+                    ]
+                },
+                "Lotto Dstny": {
+                    "ID": "27173",
+                    "Riders": [
+                        "Johannes Adamietz",
+                        "Cédric Beullens",
+                        "Victor Campenaerts",
+                        "Jasper De Buyst",
+                        "Thomas De Gendt",
+                        "Arnaud De Lie",
+                        "Jarrad Drizners",
+                        "Pascal Eenkhoorn",
+                        "Caleb Ewan",
+                        "Frederik Frison",
+                        "Sébastien Grignard",
+                        "Jacopo Guarnieri",
+                        "Andreas Kron",
+                        "Arjen Livyns",
+                        "Milan Menten",
+                        "Sylvain Moniquet",
+                        "Mathijs Paasschens",
+                        "Michael Schwarzmann",
+                        "Rüdiger Selig",
+                        "Eduardo Sepulveda",
+                        "Liam Slock",
+                        "Harry Sweeny",
+                        "Lennert Van Eetvelt",
+                        "Maxim Van Gils",
+                        "Brent Van Moer",
+                        "Florian Vermeersch"
+                    ]
+                },
+                "Q36.5 Pro Cycling Team": {
+                    "ID": "33680",
+                    "Riders": [
+                        "Negasi Haylu Abreha",
+                        "Matteo Badilatti",
+                        "Jack Bauer",
+                        "Gianluca Brambilla",
+                        "Walter Calzoni",
+                        "Marcel Camprubí",
+                        "Fabio Christen",
+                        "Filippo Colombo",
+                        "Filippo Conca",
+                        "Corey Davis",
+                        "Tom Devriendt",
+                        "Mark Donovan",
+                        "Alessandro Fedeli",
+                        "Carl Fredrik Hagen",
+                        "Damien Howson",
+                        "Tobias Ludvigsson",
+                        "Cyrus Monk",
+                        "Matteo Moschetti",
+                        "Nicolo Parisini",
+                        "Antonio Puppio",
+                        "Joey Rosskopf",
+                        "Szymon Sajnok",
+                        "Nickolas Zukowsky"
+                    ]
+                },
+                "Team Corratec": {
+                    "ID": "33371",
+                    "Riders": [
+                        "Matteo Amella",
+                        "Davide Baldaccini",
+                        "Antonio Barac",
+                        "Valerio Conti",
+                        "Nicolas Dalla Valle",
+                        "Stefano Gandin",
+                        "Alessandro Iacchi",
+                        "Alexander Konychev",
+                        "Giulio Masotto",
+                        "Marco Murgano",
+                        "Simone Olivero",
+                        "Charlie Quarterman",
+                        "Lorenzo Quartucci",
+                        "Veljko Stojnic",
+                        "Jan Stöckli",
+                        "Nicolas Tivani",
+                        "Karel Vacek",
+                        "Etienne Van Empel",
+                        "Attilio Viviani",
+                        "Samuele Zambelli"
+                    ]
+                },
+                "Team Flanders-Baloise": {
+                    "ID": "27699",
+                    "Riders": [
+                        "Ruben Apers",
+                        "Jenno Berckmoes",
+                        "Kamiel Bonneu",
+                        "Vito  Braet",
+                        "Arno Claeys",
+                        "Toon Clynhens",
+                        "Alex Colman",
+                        "Sander De Pestel",
+                        "Lindsay De Vylder",
+                        "Gilles De Wilde",
+                        "Tuur Dens",
+                        "Milan Fretin",
+                        "Vince Gerits",
+                        "Jules Hesters",
+                        "Elias Maris",
+                        "Vincent Van Hemelen",
+                        "Aaron Van Poucke",
+                        "Noah Vandenbranden",
+                        "Ward Vanhoof",
+                        "Aaron Verwilst"
+                    ]
+                },
+                "Team Novo Nordisk": {
+                    "ID": "23604",
+                    "Riders": [
+                        "Hamish Beadle",
+                        "Sam Brand",
+                        "Robbe Ceurens",
+                        "Stephen Clancy",
+                        "Lucas Daugé",
+                        "Gerd De Keijzer",
+                        "Jan Dunnewind",
+                        "Joonas Henttala",
+                        "Declan Irvine",
+                        "Matyas Kopecky",
+                        "Peter Kusztor",
+                        "David Lozano",
+                        "Andrea Peron",
+                        "Logan Phippen",
+                        "Charles Planet",
+                        "Umberto Poli",
+                        "Filippo Ridolfo",
+                        "Ulugbek Saidov"
+                    ]
+                },
+                "TotalEnergies": {
+                    "ID": "27883",
+                    "Riders": [
+                        "Edvald Boasson-Hagen",
+                        "Maciej Bodnar",
+                        "Thomas Bonnet",
+                        "Mathieu Burgaudeau",
+                        "Jérémy Cabot",
+                        "Steff Cras",
+                        "Victor De La Parte",
+                        "Fabien Doubey",
+                        "Sandy Dujardin",
+                        "Valentin Ferron",
+                        "Fabien Grellier",
+                        "Emilien Jeannière",
+                        "Alan Jousseaume",
+                        "Pierre Latour",
+                        "Lorrenzo Manzin",
+                        "Daniel Oss",
+                        "Paul Ourselin",
+                        "Peter Sagan",
+                        "Julien Simon",
+                        "Geoffrey Soupe",
+                        "Jason Tesson",
+                        "Anthony Turgis",
+                        "Dries van Gestel",
+                        "Mattéo Vercher",
+                        "Alexis Vuillermoz"
+                    ]
+                },
+                "Tudor Pro Cycling Team": {
+                    "ID": "33370",
+                    "Riders": [
+                        "Tom Bohli",
+                        "Nils Brun",
+                        "Aloïs Charrin",
+                        "Arvid De Kleijn",
+                        "Jacob Eriksson",
+                        "Lucas Eriksson",
+                        "Robin Froidevaux",
+                        "Mika Heming",
+                        "Alexander Kamp",
+                        "Petr Kelemen",
+                        "Arthur Kluckers",
+                        "Sebastian Kolze Changizi",
+                        "Simon Pellaud",
+                        "Rick Pluimers",
+                        "Sebastien Reichenbach",
+                        "Joel Suter",
+                        "Roland Thalmann",
+                        "Yannis Voisard",
+                        "Luc Wirtgen",
+                        "Maikel Zijlaard"
+                    ]
+                },
+                "Uno-X Pro Cycling Team": {
+                    "ID": "22650",
+                    "Riders": [
+                        "Jonas Abrahamsen",
+                        "Idar Andersen",
+                        "Louis Bendixen",
+                        "Erlend Blikra",
+                        "William Blume Levy",
+                        "Martin Urianstad Bugge",
+                        "Anthon Charmig",
+                        "Fredrik Dversnes",
+                        "Niklas Eg",
+                        "Stian Fredheim",
+                        "Jonas Gregaard",
+                        "Tord Gudmestad",
+                        "Kristoffer Halvorsen",
+                        "Jacob Hindsgaul Madsen",
+                        "Ådne Holter",
+                        "Anders Halland Johannessen",
+                        "Tobias Halland Johannessen",
+                        "Alexander Kristoff",
+                        "Magnus Kulset",
+                        "Sindre Kulset",
+                        "Niklas Larsen",
+                        "Lasse Norman Leth",
+                        "Erik Resell",
+                        "Marcus Sander Hansen",
+                        "Anders Skaarseth",
+                        "Rasmus Tiller",
+                        "Torstein Træen",
+                        "Søren Wærenskjold"
+                    ]
+                }
+            }
+        },
+        "Races": {
+            "1": {
+                "OneDay": {
+                    "finished": false,
+                    "Cadel Road Race": {
+                        "dates": [
+                            "29.01"
+                        ],
+                        "category": [
+                            "1",
+                            "UWT"
+                        ],
+                        "ID": "1172"
+                    }
+                },
+                "StageRace": {
+                    "finished": false,
+                    "Tour Down Under": {
+                        "dates": [
+                            "17.01",
+                            "22.01"
+                        ],
+                        "category": [
+                            "2",
+                            "UWT"
+                        ],
+                        "ID": "1",
+                        "raceLevel": "2.WT1",
+                        "stages": {
+                            "00": {
+                                "StagePlace": "Adelaide-Adelaide",
+                                "Standings": {}
+                            },
+                            "01": {
+                                "StagePlace": "Tanunda-Tanunda",
+                                "Standings": {}
+                            },
+                            "02": {
+                                "StagePlace": "Brighton-Victor Harbor",
+                                "Standings": {}
+                            },
+                            "03": {
+                                "StagePlace": "Norwood-Campbelltown",
+                                "Standings": {}
+                            },
+                            "04": {
+                                "StagePlace": "Port Willunga-Willunga",
+                                "Standings": {}
+                            },
+                            "05": {
+                                "StagePlace": "Unley-Mount Lofty",
+                                "Standings": {}
+                            }
+                        },
+                        "finished": false
+                    }
+                }
+            },
+            "2": {
+                "OneDay": {
+                    "finished": false,
+                    "Clasica de Almeria": {
+                        "dates": [
+                            "12.02"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "129"
+                    },
+                    "Faun-Ardèche Classic": {
+                        "dates": [
+                            "25.02"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "121"
+                    },
+                    "Omloop Het Nieuwsblad": {
+                        "dates": [
+                            "25.02"
+                        ],
+                        "category": [
+                            "1",
+                            "UWT"
+                        ],
+                        "ID": "53"
+                    },
+                    "Kuurne-Brussel-Kuurne": {
+                        "dates": [
+                            "26.02"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "84"
+                    },
+                    "La Drome Classic": {
+                        "dates": [
+                            "26.02"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "432"
+                    }
+                },
+                "StageRace": {
+                    "finished": false,
+                    "UAE Tour": {
+                        "dates": [
+                            "20.02",
+                            "26.02"
+                        ],
+                        "category": [
+                            "2",
+                            "UWT"
+                        ],
+                        "ID": "9800"
+                    }
+                }
+            },
+            "3": {
+                "OneDay": {
+                    "finished": false,
+                    "Trofeo Laigueglia": {
+                        "dates": [
+                            "01.03"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "112"
+                    },
+                    "Strade Bianche": {
+                        "dates": [
+                            "04.03"
+                        ],
+                        "category": [
+                            "1",
+                            "UWT"
+                        ],
+                        "ID": "54"
+                    },
+                    "Milano - Torino": {
+                        "dates": [
+                            "15.03"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "89"
+                    },
+                    "Nokere Koerse": {
+                        "dates": [
+                            "15.03"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "122"
+                    },
+                    "GP de Denain": {
+                        "dates": [
+                            "16.03"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "146"
+                    },
+                    "Bredene Koksijde Classic": {
+                        "dates": [
+                            "17.03"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "123"
+                    },
+                    "Milano-Sanremo": {
+                        "dates": [
+                            "18.03"
+                        ],
+                        "category": [
+                            "1",
+                            "UWT"
+                        ],
+                        "ID": "4"
+                    },
+                    "Minerva Classic Brugge-De Panne": {
+                        "dates": [
+                            "22.03"
+                        ],
+                        "category": [
+                            "1",
+                            "UWT"
+                        ],
+                        "ID": "40"
+                    },
+                    "E3 Saxo Bank Classic": {
+                        "dates": [
+                            "24.03"
+                        ],
+                        "category": [
+                            "1",
+                            "UWT"
+                        ],
+                        "ID": "47"
+                    },
+                    "GP Industria & Artigianato": {
+                        "dates": [
+                            "26.03"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "263"
+                    },
+                    "Dwars door Vlaanderen": {
+                        "dates": [
+                            "29.03"
+                        ],
+                        "category": [
+                            "1",
+                            "UWT"
+                        ],
+                        "ID": "75"
+                    }
+                },
+                "StageRace": {
+                    "finished": false,
+                    "Paris-Nice": {
+                        "dates": [
+                            "05.03",
+                            "12.03"
+                        ],
+                        "category": [
+                            "2",
+                            "UWT"
+                        ],
+                        "ID": "2"
+                    },
+                    "Tirreno-Adriatico": {
+                        "dates": [
+                            "06.03",
+                            "12.03"
+                        ],
+                        "category": [
+                            "2",
+                            "UWT"
+                        ],
+                        "ID": "3",
+                        "raceLevel": "2.WT1",
+                        "stages": {
+                            "01": {
+                                "StagePlace": "Lido di Camaiore-Lido di Camaiore",
+                                "Standings": {}
+                            },
+                            "02": {
+                                "StagePlace": "Camaiore-Follonica",
+                                "Standings": {}
+                            },
+                            "03": {
+                                "StagePlace": "Follonica-Foligno",
+                                "Standings": {}
+                            },
+                            "04": {
+                                "StagePlace": "Greccio -Tortoreto",
+                                "Standings": {}
+                            },
+                            "05": {
+                                "StagePlace": "Morro d'Oro-Sarnano-Sassotetto",
+                                "Standings": {}
+                            },
+                            "06": {
+                                "StagePlace": "Osimo Stazione-Osimo",
+                                "Standings": {}
+                            },
+                            "07": {
+                                "StagePlace": "San Benedetto del Tronto-San Benedetto del Tronto",
+                                "Standings": {}
+                            }
+                        },
+                        "finished": false
+                    },
+                    "Volta Catalunya": {
+                        "dates": [
+                            "20.03",
+                            "26.03"
+                        ],
+                        "category": [
+                            "2",
+                            "UWT"
+                        ],
+                        "ID": "14",
+                        "raceLevel": "2.WT2",
+                        "stages": {
+                            "01": {
+                                "StagePlace": "Saint Feliu de Guíxols-Saint Feliu de Guíxols",
+                                "Standings": {}
+                            },
+                            "02": {
+                                "StagePlace": "Mataró-Vallter",
+                                "Standings": {}
+                            },
+                            "03": {
+                                "StagePlace": "Olost-La Molina",
+                                "Standings": {}
+                            },
+                            "04": {
+                                "StagePlace": "Llívia-Sabadell",
+                                "Standings": {}
+                            },
+                            "05": {
+                                "StagePlace": "Tortosa-Lo Port",
+                                "Standings": {}
+                            },
+                            "06": {
+                                "StagePlace": "Martorell-Molins de Rei",
+                                "Standings": {}
+                            },
+                            "07": {
+                                "StagePlace": "Barcelona-Barcelona",
+                                "Standings": {}
+                            }
+                        },
+                        "finished": false
+                    }
+                }
+            },
+            "4": {
+                "OneDay": {
+                    "finished": false,
+                    "GP Miguel Indurain": {
+                        "dates": [
+                            "01.04"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "48"
+                    },
+                    "Ronde van Vlaanderen": {
+                        "dates": [
+                            "02.04"
+                        ],
+                        "category": [
+                            "1",
+                            "UWT"
+                        ],
+                        "ID": "5"
+                    },
+                    "Scheldeprijs": {
+                        "dates": [
+                            "05.04"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "56"
+                    },
+                    "Paris-Roubaix": {
+                        "dates": [
+                            "09.04"
+                        ],
+                        "category": [
+                            "1",
+                            "UWT"
+                        ],
+                        "ID": "8"
+                    },
+                    "Brabantse Pijl": {
+                        "dates": [
+                            "12.04"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "77"
+                    },
+                    "Amstel Gold Race": {
+                        "dates": [
+                            "16.04"
+                        ],
+                        "category": [
+                            "1",
+                            "UWT"
+                        ],
+                        "ID": "9"
+                    },
+                    "La Fleche Wallonne": {
+                        "dates": [
+                            "19.04"
+                        ],
+                        "category": [
+                            "1",
+                            "UWT"
+                        ],
+                        "ID": "10"
+                    },
+                    "Liège-Bastogne-Liège": {
+                        "dates": [
+                            "23.04"
+                        ],
+                        "category": [
+                            "1",
+                            "UWT"
+                        ],
+                        "ID": "11"
+                    }
+                },
+                "StageRace": {
+                    "finished": false,
+                    "Itzulia Basque Country": {
+                        "dates": [
+                            "03.04",
+                            "08.04"
+                        ],
+                        "category": [
+                            "2",
+                            "UWT"
+                        ],
+                        "ID": "6"
+                    },
+                    "Tour de Romandie": {
+                        "dates": [
+                            "25.04",
+                            "30.04"
+                        ],
+                        "category": [
+                            "2",
+                            "UWT"
+                        ],
+                        "ID": "12"
+                    }
+                }
+            },
+            "5": {
+                "OneDay": {
+                    "finished": false,
+                    "GP de Plumelec-Morbihan": {
+                        "dates": [
+                            "06.05"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "180"
+                    },
+                    "Tro-Bro Leon": {
+                        "dates": [
+                            "07.05"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "148"
+                    }
+                },
+                "StageRace": {
+                    "finished": false,
+                    "Giro d'Italia": {
+                        "dates": [
+                            "06.05",
+                            "28.05"
+                        ],
+                        "category": [
+                            "2",
+                            "UWT"
+                        ],
+                        "ID": "13",
+                        "raceLevel": "GT2",
+                        "stages": {
+                            "01": {
+                                "StagePlace": "Fossacesia Marina-Ortona",
+                                "Standings": {}
+                            },
+                            "02": {
+                                "StagePlace": "Teramo-San Salvo",
+                                "Standings": {}
+                            },
+                            "03": {
+                                "StagePlace": "Vasto-Melfi",
+                                "Standings": {}
+                            },
+                            "04": {
+                                "StagePlace": "Venosa-Lago Laceno",
+                                "Standings": {}
+                            },
+                            "05": {
+                                "StagePlace": "Atripalda-Salerno",
+                                "Standings": {}
+                            },
+                            "06": {
+                                "StagePlace": "Napoli-Napoli",
+                                "Standings": {}
+                            },
+                            "07": {
+                                "StagePlace": "Capua-Gran Sasso d'Italia",
+                                "Standings": {}
+                            },
+                            "08": {
+                                "StagePlace": "Teri-Fossombrone",
+                                "Standings": {}
+                            },
+                            "09": {
+                                "StagePlace": "Savignano sul Rubicone-Cesena",
+                                "Standings": {}
+                            },
+                            "10": {
+                                "StagePlace": "Scandiano-Viareggio",
+                                "Standings": {}
+                            },
+                            "11": {
+                                "StagePlace": "Camaiore-Tortona",
+                                "Standings": {}
+                            },
+                            "12": {
+                                "StagePlace": "Bra-Rivoli",
+                                "Standings": {}
+                            },
+                            "13": {
+                                "StagePlace": "Borgofranco d'Ivrea-Crans Montana",
+                                "Standings": {}
+                            },
+                            "14": {
+                                "StagePlace": "Sierre-Cassano Magnago",
+                                "Standings": {}
+                            },
+                            "15": {
+                                "StagePlace": "Seregno-Bergamo",
+                                "Standings": {}
+                            },
+                            "16": {
+                                "StagePlace": "Sabbio Chiese-Monte Bondone",
+                                "Standings": {}
+                            },
+                            "17": {
+                                "StagePlace": "Pergine Valsugana-Caorle",
+                                "Standings": {}
+                            },
+                            "18": {
+                                "StagePlace": "Oberze-Val di Zoldo",
+                                "Standings": {}
+                            },
+                            "19": {
+                                "StagePlace": "Longarone-Tre Cime di Lavaredo",
+                                "Standings": {}
+                            },
+                            "20": {
+                                "StagePlace": "Tarvisio-Monte Lussari",
+                                "Standings": {}
+                            },
+                            "21": {
+                                "StagePlace": "Roma-Roma",
+                                "Standings": {}
+                            }
+                        },
+                        "finished": false
+                    }
+                }
+            },
+            "6": {
+                "OneDay": {
+                    "finished": false,
+                    "Brussels Classic": {
+                        "dates": [
+                            "04.06"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "64"
+                    },
+                    "Dwars door het Hageland": {
+                        "dates": [
+                            "10.06"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "425"
+                    },
+                    "Mont Ventoux Dénivelé Challenge": {
+                        "dates": [
+                            "13.06"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "10459"
+                    }
+                },
+                "StageRace": {
+                    "finished": false,
+                    "Criterium Dauphine": {
+                        "dates": [
+                            "04.06",
+                            "11.06"
+                        ],
+                        "category": [
+                            "2",
+                            "UWT"
+                        ],
+                        "ID": "15"
+                    },
+                    "Tour de Suisse": {
+                        "dates": [
+                            "11.06",
+                            "18.06"
+                        ],
+                        "category": [
+                            "2",
+                            "UWT"
+                        ],
+                        "ID": "16"
+                    }
+                }
+            },
+            "7": {
+                "OneDay": {
+                    "finished": false,
+                    "Donostia San Sebastian Klasikoa": {
+                        "dates": [
+                            "29.07"
+                        ],
+                        "category": [
+                            "1",
+                            "UWT"
+                        ],
+                        "ID": "18"
+                    }
+                },
+                "StageRace": {
+                    "finished": false,
+                    "Tour de France": {
+                        "dates": [
+                            "01.07",
+                            "23.07"
+                        ],
+                        "category": [
+                            "2",
+                            "UWT"
+                        ],
+                        "ID": "17",
+                        "raceLevel": "GT1",
+                        "stages": {
+                            "01": {
+                                "StagePlace": "Bilbao-Bilbao",
+                                "Standings": {}
+                            },
+                            "02": {
+                                "StagePlace": "Vitoria-Gasteiz-San Sebastian",
+                                "Standings": {}
+                            },
+                            "03": {
+                                "StagePlace": "Amorebieta-Etxano-Bayonne",
+                                "Standings": {}
+                            },
+                            "04": {
+                                "StagePlace": "Dax-Nogaro",
+                                "Standings": {}
+                            },
+                            "05": {
+                                "StagePlace": "Pau-Laruns",
+                                "Standings": {}
+                            },
+                            "06": {
+                                "StagePlace": "Tarbes-Cauterets-Cambasque",
+                                "Standings": {}
+                            },
+                            "07": {
+                                "StagePlace": "Mont-de-Marsan-Bordeaux",
+                                "Standings": {}
+                            },
+                            "08": {
+                                "StagePlace": "Liburne-Limoges",
+                                "Standings": {}
+                            },
+                            "09": {
+                                "StagePlace": "Saint-Léonard-de-Noblat-Puy de Dôme",
+                                "Standings": {}
+                            },
+                            "10": {
+                                "StagePlace": "Vulcania-Issoire",
+                                "Standings": {}
+                            },
+                            "11": {
+                                "StagePlace": "Clermont-Ferrand-Moulins",
+                                "Standings": {}
+                            },
+                            "12": {
+                                "StagePlace": "Roanne-Belleville-en-Beaujolais",
+                                "Standings": {}
+                            },
+                            "13": {
+                                "StagePlace": "Châtillon-sur-Chalaronne-Grand Colombier",
+                                "Standings": {}
+                            },
+                            "14": {
+                                "StagePlace": "Annemasse-Morzine",
+                                "Standings": {}
+                            },
+                            "15": {
+                                "StagePlace": "Les Gets-Saint Gervais Mont-Blanc",
+                                "Standings": {}
+                            },
+                            "16": {
+                                "StagePlace": "Combloux-Combloux",
+                                "Standings": {}
+                            },
+                            "17": {
+                                "StagePlace": "Saint Gervais Mont-Blanc-Courchevel",
+                                "Standings": {}
+                            },
+                            "18": {
+                                "StagePlace": "Moûtiers-Bourg-en-Bresse",
+                                "Standings": {}
+                            },
+                            "19": {
+                                "StagePlace": "Moirans-en-Montagne-Poligny",
+                                "Standings": {}
+                            },
+                            "20": {
+                                "StagePlace": "Belfort-Le Markstein",
+                                "Standings": {}
+                            },
+                            "21": {
+                                "StagePlace": "Saint-Quentin-en-Yvelines-Paris",
+                                "Standings": {}
+                            }
+                        },
+                        "finished": false
+                    },
+                    "Tour de Pologne": {
+                        "dates": [
+                            "29.07",
+                            "04.08"
+                        ],
+                        "category": [
+                            "2",
+                            "UWT"
+                        ],
+                        "ID": "19"
+                    }
+                }
+            },
+            "8": {
+                "OneDay": {
+                    "finished": false,
+                    "World Championship RR": {
+                        "dates": [
+                            "06.08"
+                        ],
+                        "category": [
+                            "WCRR"
+                        ],
+                        "ID": "26"
+                    },
+                    "BEMER Cyclassics": {
+                        "dates": [
+                            "20.08"
+                        ],
+                        "category": [
+                            "1",
+                            "UWT"
+                        ],
+                        "ID": "20"
+                    }
+                },
+                "StageRace": {
+                    "finished": false,
+                    "Tour de Pologne": {
+                        "dates": [
+                            "29.07",
+                            "04.08"
+                        ],
+                        "category": [
+                            "2",
+                            "UWT"
+                        ],
+                        "ID": "19"
+                    },
+                    "Benelux Tour": {
+                        "dates": [
+                            "23.08",
+                            "27.08"
+                        ],
+                        "category": [
+                            "2",
+                            "UWT"
+                        ],
+                        "ID": "21"
+                    },
+                    "Vuelta a España": {
+                        "dates": [
+                            "26.08",
+                            "17.09"
+                        ],
+                        "category": [
+                            "2",
+                            "UWT"
+                        ],
+                        "ID": "23",
+                        "raceLevel": "GT2",
+                        "stages": {
+                            "01": {
+                                "StagePlace": "Barcelona-Barcelona | TTT",
+                                "Standings": {
+                                    "Stage": [],
+                                    "GC": [],
+                                    "Points": [],
+                                    "Mountain": []
+                                }
+                            },
+                            "02": {
+                                "StagePlace": "Mataró-Barcelona",
+                                "Standings": {}
+                            }
+                        },
+                        "finished": false
+                    }
+                }
+            },
+            "9": {
+                "OneDay": {
+                    "finished": false,
+                    "Circuit Franco-Belge": {
+                        "dates": [
+                            "02.09"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "231"
+                    },
+                    "Bretagne Classic": {
+                        "dates": [
+                            "03.09"
+                        ],
+                        "category": [
+                            "1",
+                            "UWT"
+                        ],
+                        "ID": "22"
+                    },
+                    "Maryland Cycling Classic": {
+                        "dates": [
+                            "03.09"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "13191"
+                    },
+                    "GP Quebec": {
+                        "dates": [
+                            "08.09"
+                        ],
+                        "category": [
+                            "1",
+                            "UWT"
+                        ],
+                        "ID": "59"
+                    },
+                    "GP de Fourmies": {
+                        "dates": [
+                            "10.09"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "92"
+                    },
+                    "GP Montreal": {
+                        "dates": [
+                            "10.09"
+                        ],
+                        "category": [
+                            "1",
+                            "UWT"
+                        ],
+                        "ID": "58"
+                    },
+                    "GP de Wallonie": {
+                        "dates": [
+                            "13.09"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "93"
+                    },
+                    "Coppa Sabatini": {
+                        "dates": [
+                            "14.09"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "160"
+                    },
+                    "Primus Classic": {
+                        "dates": [
+                            "16.09"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "168"
+                    },
+                    "Giro dell'Emilia": {
+                        "dates": [
+                            "30.09"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "29"
+                    }
+                },
+                "StageRace": {
+                    "finished": false,
+                    "Vuelta a España": {
+                        "dates": [
+                            "26.08",
+                            "17.09"
+                        ],
+                        "category": [
+                            "2",
+                            "UWT"
+                        ],
+                        "ID": "23",
+                        "raceLevel": "GT2",
+                        "stages": {
+                            "01": {
+                                "StagePlace": "Barcelona-Barcelona | TTT",
+                                "Standings": {
+                                    "Stage": [],
+                                    "GC": [],
+                                    "Points": [],
+                                    "Mountain": []
+                                }
+                            },
+                            "02": {
+                                "StagePlace": "Mataró-Barcelona",
+                                "Standings": {}
+                            }
+                        },
+                        "finished": false
+                    }
+                }
+            },
+            "10": {
+                "OneDay": {
+                    "finished": false,
+                    "Coppa Bernocchi": {
+                        "dates": [
+                            "02.10"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "196"
+                    },
+                    "Munsterland Giro": {
+                        "dates": [
+                            "03.10"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "158"
+                    },
+                    "Tre Valli Varesine": {
+                        "dates": [
+                            "03.10"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "190"
+                    },
+                    "Gran Piemonte": {
+                        "dates": [
+                            "05.10"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "61"
+                    },
+                    "Il Lombardia": {
+                        "dates": [
+                            "07.10"
+                        ],
+                        "category": [
+                            "1",
+                            "UWT"
+                        ],
+                        "ID": "24"
+                    },
+                    "Giro del Veneto": {
+                        "dates": [
+                            "11.10"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "183"
+                    },
+                    "Japan Cup": {
+                        "dates": [
+                            "15.10"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "95"
+                    },
+                    "Veneto Classic": {
+                        "dates": [
+                            "15.10"
+                        ],
+                        "category": [
+                            "1",
+                            "Pro"
+                        ],
+                        "ID": "15208"
+                    }
+                },
+                "StageRace": {
+                    "finished": false,
+                    "Gree - Tour of Guangxi": {
+                        "dates": [
+                            "12.10",
+                            "17.10"
+                        ],
+                        "category": [
+                            "2",
+                            "UWT"
+                        ],
+                        "ID": "7591"
+                    }
+                }
+            },
+            "11": {},
+            "12": {}
+        }
+    }
+}
