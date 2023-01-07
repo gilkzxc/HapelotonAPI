@@ -1,5 +1,5 @@
 {
-    "lastUpdateDateTime": "2023-01-02 20:10:38.924297",
+    "lastUpdateDateTime": "2023-01-08 00:39:58.369662",
     "2022": {
         "Teams": {
             "WorldTeam": {
@@ -1159,7 +1159,7 @@
             },
             "02": {
                 "OneDay": {
-                    "finished": false,
+                    "finished": true,
                     "Clasica de Almeria": {
                         "dates": [
                             "13.02"
@@ -1295,7 +1295,7 @@
                             "Kevin Ledanois",
                             "Alessandro Verre"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Omloop Het Nieuwsblad": {
                         "dates": [
@@ -1481,7 +1481,7 @@
                             "Oliviero Troia",
                             "Jonas Abrahamsen"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Faun-Ardèche Classic": {
                         "dates": [
@@ -1642,7 +1642,7 @@
                             "Jacob Hindsgaul Madsen",
                             "Anders Halland Johannessen"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "La Drome Classic": {
                         "dates": [
@@ -1803,7 +1803,7 @@
                             "Joel Suter",
                             "Anders Halland Johannessen"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Kuurne-Brussel-Kuurne": {
                         "dates": [
@@ -1987,7 +1987,7 @@
                             "Jonas Abrahamsen",
                             "Morten Hulgaard"
                         ],
-                        "finished": false
+                        "finished": true
                     }
                 },
                 "StageRace": {
@@ -2306,7 +2306,7 @@
             },
             "03": {
                 "OneDay": {
-                    "finished": false,
+                    "finished": true,
                     "Trofeo Laigueglia": {
                         "dates": [
                             "02.03"
@@ -2492,7 +2492,7 @@
                             "Lorenzo Ginestra",
                             "Francesco Zandri"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Strade Bianche": {
                         "dates": [
@@ -2656,7 +2656,7 @@
                             "Vegard Stake Laengen",
                             "Maximiliano Richeze"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Milano - Torino": {
                         "dates": [
@@ -2805,7 +2805,7 @@
                             "Fabio Mazzucco",
                             "Georg Zimmermann"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Nokere Koerse": {
                         "dates": [
@@ -2953,7 +2953,7 @@
                             "Jakob Egholm",
                             "Lasse Norman Leth"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "GP de Denain": {
                         "dates": [
@@ -3098,7 +3098,7 @@
                             "Maximiliano Richeze",
                             "Fredrik Dversnes"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Bredene Koksijde Classic": {
                         "dates": [
@@ -3245,7 +3245,7 @@
                             "Finn Fisher-Black",
                             "Lasse Norman Leth"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Milano-Sanremo": {
                         "dates": [
@@ -3426,7 +3426,7 @@
                             "Roger Kluge",
                             "Davide Formolo"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Minerva Classic Brugge-De Panne": {
                         "dates": [
@@ -3605,7 +3605,7 @@
                             "Gonzalo Serrano",
                             "Niccolo Bonifazio"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "E3 Saxo Bank Classic": {
                         "dates": [
@@ -3795,7 +3795,7 @@
                             "Niklas Larsen",
                             "Lars Saugstad"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Gent - Wevelgem": {
                         "dates": [
@@ -3984,7 +3984,7 @@
                             "Lasse Norman Leth",
                             "Erik Resell"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "GP Industria & Artigianato": {
                         "dates": [
@@ -4126,7 +4126,7 @@
                             "Luca Tornaboni",
                             "Francesco Zandri"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Dwars door Vlaanderen": {
                         "dates": [
@@ -4312,7 +4312,7 @@
                             "Tord Gudmestad",
                             "Kristoffer Halvorsen"
                         ],
-                        "finished": false
+                        "finished": true
                     }
                 },
                 "StageRace": {
@@ -5510,7 +5510,7 @@
             },
             "04": {
                 "OneDay": {
-                    "finished": false,
+                    "finished": true,
                     "GP Miguel Indurain": {
                         "dates": [
                             "02.04"
@@ -5662,7 +5662,7 @@
                             "Joao Almeida",
                             "Rui Costa"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Ronde van Vlaanderen": {
                         "dates": [
@@ -5844,7 +5844,7 @@
                             "Erik Resell",
                             "Søren Wærenskjold"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Scheldeprijs": {
                         "dates": [
@@ -5996,7 +5996,7 @@
                             "Søren Wærenskjold",
                             "Syver Wærsted"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Amstel Gold Race": {
                         "dates": [
@@ -6181,7 +6181,7 @@
                             "Sebastian Molano",
                             "Ivo Oliveira"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Brabantse Pijl": {
                         "dates": [
@@ -6335,7 +6335,7 @@
                             "Torjus Sleen",
                             "Torstein Træen"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Paris-Roubaix": {
                         "dates": [
@@ -6520,7 +6520,7 @@
                             "Rasmus Tiller",
                             "Søren Wærenskjold"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "La Fleche Wallonne": {
                         "dates": [
@@ -6710,7 +6710,7 @@
                             "Jacob Hindsgaul Madsen",
                             "Torjus Sleen"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Liège-Bastogne-Liège": {
                         "dates": [
@@ -6900,7 +6900,7 @@
                             "Idar Andersen",
                             "Tobias Halland Johannessen"
                         ],
-                        "finished": false
+                        "finished": true
                     }
                 },
                 "StageRace": {
@@ -7262,8 +7262,8 @@
                                         "Rohan Dennis",
                                         "Felix GroÃschartner",
                                         "Geraint Thomas",
-                                        "Matteo Sobrero",
                                         "Maximilian Schachmann",
+                                        "Matteo Sobrero",
                                         "Ethan Vernon",
                                         "Georg Steinhauser",
                                         "Mauro Schmid",
@@ -7274,8 +7274,8 @@
                                         "Rohan Dennis",
                                         "Felix GroÃschartner",
                                         "Geraint Thomas",
-                                        "Maximilian Schachmann",
                                         "Matteo Sobrero",
+                                        "Maximilian Schachmann",
                                         "Ethan Vernon",
                                         "Georg Steinhauser",
                                         "Mauro Schmid",
@@ -7555,7 +7555,7 @@
             },
             "05": {
                 "OneDay": {
-                    "finished": false,
+                    "finished": true,
                     "Eschborn-Frankfurt": {
                         "dates": [
                             "01.05"
@@ -7700,7 +7700,7 @@
                             "Daan Hoole",
                             "Emils Liepins"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "GP de Plumelec-Morbihan": {
                         "dates": [
@@ -7857,7 +7857,7 @@
                             "Iver Skaarseth",
                             "Søren Wærenskjold"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Tro-Bro Leon": {
                         "dates": [
@@ -8024,7 +8024,7 @@
                             "Iver Skaarseth",
                             "Søren Wærenskjold"
                         ],
-                        "finished": false
+                        "finished": true
                     }
                 },
                 "StageRace": {
@@ -9358,7 +9358,7 @@
             },
             "06": {
                 "OneDay": {
-                    "finished": false,
+                    "finished": true,
                     "Brussels Classic": {
                         "dates": [
                             "05.06"
@@ -9500,7 +9500,7 @@
                             "Lasse Norman Leth",
                             "Erik Resell"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Dwars door het Hageland": {
                         "dates": [
@@ -9633,7 +9633,7 @@
                             "Tord Gudmestad",
                             "Kristoffer Halvorsen"
                         ],
-                        "finished": false
+                        "finished": true
                     }
                 },
                 "StageRace": {
@@ -10512,7 +10512,7 @@
             },
             "07": {
                 "OneDay": {
-                    "finished": false,
+                    "finished": true,
                     "Donostia San Sebastian Klasikoa": {
                         "dates": [
                             "30.07"
@@ -10682,7 +10682,7 @@
                             "Tadej Pogacar",
                             "Jan Polanc"
                         ],
-                        "finished": false
+                        "finished": true
                     }
                 },
                 "StageRace": {
@@ -12350,7 +12350,7 @@
             },
             "08": {
                 "OneDay": {
-                    "finished": false,
+                    "finished": true,
                     "Circuit Franco-Belge": {
                         "dates": [
                             "10.08"
@@ -12501,7 +12501,7 @@
                             "Nils Wolfenbuttel",
                             "Maikel Zijlaard"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "BEMER Cyclassics": {
                         "dates": [
@@ -12663,7 +12663,7 @@
                             "Maciej Bodnar",
                             "Fernando Gaviria"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Bretagne Classic": {
                         "dates": [
@@ -12844,7 +12844,7 @@
                             "Filippo Baroncini",
                             "Syver Wærsted"
                         ],
-                        "finished": false
+                        "finished": true
                     }
                 },
                 "StageRace": {
@@ -14259,7 +14259,7 @@
             },
             "09": {
                 "OneDay": {
-                    "finished": false,
+                    "finished": true,
                     "Maryland Cycling Classic": {
                         "dates": [
                             "04.09"
@@ -14382,7 +14382,7 @@
                             "Liam Flanagan",
                             "Spencer Miller"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "GP Quebec": {
                         "dates": [
@@ -14544,7 +14544,7 @@
                             "Jacopo Mosca",
                             "Otto Vergaerde"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "GP de Fourmies": {
                         "dates": [
@@ -14720,7 +14720,7 @@
                             "Yaël Joalland",
                             "Syver Wærsted"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "GP Montreal": {
                         "dates": [
@@ -14880,7 +14880,7 @@
                             "Davide Formolo",
                             "Ryan Gibbons"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "GP de Wallonie": {
                         "dates": [
@@ -15032,7 +15032,7 @@
                             "Elias Van Breussegem",
                             "Brent Van de Kerkhove"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Coppa Sabatini": {
                         "dates": [
@@ -15175,7 +15175,7 @@
                             "Samuele Zambelli",
                             "Francesco Zandri"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Primus Classic": {
                         "dates": [
@@ -15344,7 +15344,7 @@
                             "Nils Sinschek",
                             "Meindert Weulink"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "World Championship RR": {
                         "dates": [
@@ -15527,7 +15527,7 @@
                             "Muradjan Khalmuratov ",
                             "Rien Schuurhuis"
                         ],
-                        "finished": false
+                        "finished": true
                     }
                 },
                 "StageRace": {
@@ -15536,7 +15536,7 @@
             },
             "10": {
                 "OneDay": {
-                    "finished": false,
+                    "finished": true,
                     "Giro dell'Emilia": {
                         "dates": [
                             "01.10"
@@ -15723,7 +15723,7 @@
                             "George Bennett",
                             "Alessandro Covi"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Coppa Bernocchi": {
                         "dates": [
@@ -15913,7 +15913,7 @@
                             "Samuele Zambelli",
                             "Francesco Zandri"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Munsterland Giro": {
                         "dates": [
@@ -16048,7 +16048,7 @@
                             "Kamiel Bonneu",
                             "Bert-Jan Lindeman"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Tre Valli Varesine": {
                         "dates": [
@@ -16235,7 +16235,7 @@
                             "George Bennett",
                             "Alessandro Covi"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Gran Piemonte": {
                         "dates": [
@@ -16406,7 +16406,7 @@
                             "Arthur Kluckers",
                             "Jan Polanc"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Il Lombardia": {
                         "dates": [
@@ -16596,7 +16596,7 @@
                             "Joao Almeida",
                             "Alessandro Covi"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Paris - Tours": {
                         "dates": [
@@ -16771,7 +16771,7 @@
                             "Pascal Ackermann",
                             "Fernando Gaviria"
                         ],
-                        "finished": false
+                        "finished": true
                     },
                     "Japan Cup": {
                         "dates": [
@@ -16879,7 +16879,7 @@
                             "Taishi Miyazaki",
                             "Kaito Nakamura"
                         ],
-                        "finished": false
+                        "finished": true
                     }
                 },
                 "StageRace": {
@@ -16912,6 +16912,7 @@
                     "Riders": [
                         "Alex Baudin",
                         "Clement Berthet",
+                        "Franck Bonnamour",
                         "Geoffrey Bouchard",
                         "Mikaël Chérel",
                         "Benoît Cosnefroy",
@@ -17133,6 +17134,7 @@
                         "Mikkel Honore",
                         "Jens Keukeleire",
                         "Merhawi Kudus",
+                        "Lachlan Morton",
                         "Mark Padun",
                         "Andrea Piccolo",
                         "Neilson Powless",
@@ -17849,6 +17851,7 @@
                         "Carl Fredrik Hagen",
                         "Damien Howson",
                         "Tobias Ludvigsson",
+                        "Kamil Malecki",
                         "Cyrus Monk",
                         "Matteo Moschetti",
                         "Nicolo Parisini",
@@ -18034,7 +18037,10 @@
                             "1",
                             "UWT"
                         ],
-                        "ID": "1172"
+                        "ID": "1172",
+                        "raceLevel": "1.WT3",
+                        "results": [],
+                        "finished": false
                     }
                 },
                 "StageRace": {
@@ -18293,7 +18299,48 @@
                             "2",
                             "UWT"
                         ],
-                        "ID": "2"
+                        "ID": "2",
+                        "raceLevel": "2.WT1",
+                        "stages": {
+                            "01": {
+                                "StagePlace": "La Verrière-La Verrière",
+                                "Standings": {}
+                            },
+                            "02": {
+                                "StagePlace": "Bazainville-Fontainebleau",
+                                "Standings": {}
+                            },
+                            "03": {
+                                "StagePlace": "Dampierre-en-Burly-Dampierre-en-Burly | TTT",
+                                "Standings": {
+                                    "Stage": [],
+                                    "GC": [],
+                                    "Points": [],
+                                    "Mountain": []
+                                }
+                            },
+                            "04": {
+                                "StagePlace": "Saint-Amand-Montrond- La Loge des Gardes",
+                                "Standings": {}
+                            },
+                            "05": {
+                                "StagePlace": "Saint-Symphorien-sur-Coise-Saint-Paul-Trois-Châteaux",
+                                "Standings": {}
+                            },
+                            "06": {
+                                "StagePlace": "Tourves-La Colle-sur-Loup",
+                                "Standings": {}
+                            },
+                            "07": {
+                                "StagePlace": "Nice-Col de la Couillole",
+                                "Standings": {}
+                            },
+                            "08": {
+                                "StagePlace": "Nice-Nice",
+                                "Standings": {}
+                            }
+                        },
+                        "finished": false
                     },
                     "Tirreno-Adriatico": {
                         "dates": [
