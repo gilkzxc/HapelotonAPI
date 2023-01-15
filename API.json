@@ -1,5 +1,5 @@
 {
-    "lastUpdateDateTime": "2023-01-08 20:00:00.000006",
+    "lastUpdateDateTime": "2023-01-16 01:17:00.783007",
     "2022": {
         "Teams": {
             "WorldTeam": {
@@ -1151,10 +1151,10 @@
         "Races": {
             "01": {
                 "OneDay": {
-                    "finished": false
+                    "finished": true
                 },
                 "StageRace": {
-                    "finished": false
+                    "finished": true
                 }
             },
             "02": {
@@ -1991,7 +1991,7 @@
                     }
                 },
                 "StageRace": {
-                    "finished": false,
+                    "finished": true,
                     "UAE Tour": {
                         "dates": [
                             "20.02",
@@ -2300,7 +2300,7 @@
                                 }
                             }
                         },
-                        "finished": false
+                        "finished": true
                     }
                 }
             },
@@ -4316,7 +4316,7 @@
                     }
                 },
                 "StageRace": {
-                    "finished": false,
+                    "finished": true,
                     "Paris-Nice": {
                         "dates": [
                             "06.03",
@@ -4755,7 +4755,7 @@
                                 }
                             }
                         },
-                        "finished": false
+                        "finished": true
                     },
                     "Tirreno-Adriatico": {
                         "dates": [
@@ -5122,7 +5122,7 @@
                                 }
                             }
                         },
-                        "finished": false
+                        "finished": true
                     },
                     "Volta Catalunya": {
                         "dates": [
@@ -5504,7 +5504,7 @@
                                 }
                             }
                         },
-                        "finished": false
+                        "finished": true
                     }
                 }
             },
@@ -6904,7 +6904,7 @@
                     }
                 },
                 "StageRace": {
-                    "finished": false,
+                    "finished": true,
                     "Itzulia Basque Country": {
                         "dates": [
                             "04.04",
@@ -7227,7 +7227,7 @@
                                 }
                             }
                         },
-                        "finished": false
+                        "finished": true
                     },
                     "Tour de Romandie": {
                         "dates": [
@@ -7250,8 +7250,10 @@
                                         "Rohan Dennis",
                                         "Felix GroÃschartner",
                                         "Geraint Thomas",
-                                        "Maximilian Schachmann",
-                                        "Matteo Sobrero",
+                                        [
+                                            "Maximilian Schachmann",
+                                            "Matteo Sobrero"
+                                        ],
                                         "Ethan Vernon",
                                         "Georg Steinhauser",
                                         "Mauro Schmid",
@@ -7262,8 +7264,10 @@
                                         "Rohan Dennis",
                                         "Felix GroÃschartner",
                                         "Geraint Thomas",
-                                        "Maximilian Schachmann",
-                                        "Matteo Sobrero",
+                                        [
+                                            "Maximilian Schachmann",
+                                            "Matteo Sobrero"
+                                        ],
                                         "Ethan Vernon",
                                         "Georg Steinhauser",
                                         "Mauro Schmid",
@@ -7274,8 +7278,10 @@
                                         "Rohan Dennis",
                                         "Felix GroÃschartner",
                                         "Geraint Thomas",
-                                        "Maximilian Schachmann",
-                                        "Matteo Sobrero",
+                                        [
+                                            "Maximilian Schachmann",
+                                            "Matteo Sobrero"
+                                        ],
                                         "Ethan Vernon",
                                         "Georg Steinhauser",
                                         "Mauro Schmid",
@@ -7549,7 +7555,7 @@
                                 }
                             }
                         },
-                        "finished": false
+                        "finished": true
                     }
                 }
             },
@@ -9637,7 +9643,7 @@
                     }
                 },
                 "StageRace": {
-                    "finished": false,
+                    "finished": true,
                     "Criterium Dauphine": {
                         "dates": [
                             "05.06",
@@ -10069,7 +10075,7 @@
                                 }
                             }
                         },
-                        "finished": false
+                        "finished": true
                     },
                     "Tour de Suisse": {
                         "dates": [
@@ -10506,7 +10512,7 @@
                                 }
                             }
                         },
-                        "finished": false
+                        "finished": true
                     }
                 }
             },
@@ -10686,7 +10692,7 @@
                     }
                 },
                 "StageRace": {
-                    "finished": false,
+                    "finished": true,
                     "Tour de France": {
                         "dates": [
                             "01.07",
@@ -12344,7 +12350,7 @@
                                 }
                             }
                         },
-                        "finished": false
+                        "finished": true
                     }
                 }
             },
@@ -12866,126 +12872,21 @@
                                 "StagePlace": "Utrecht-Utrecht | TTT",
                                 "Standings": {
                                     "Stage": [
-                                        "Robert Gesink",
-                                        "Primoz Roglic",
-                                        "Chris Harper",
-                                        "Sepp Kuss",
-                                        "Rohan Dennis",
-                                        "Edoardo Affini",
-                                        "Sam Oomen",
-                                        "Mike Teunissen",
-                                        "Ethan Hayter",
-                                        "Richard Carapaz",
-                                        "Pavel Sivakov",
-                                        "Dylan van Baarle",
-                                        "Tao Geoghegan Hart",
-                                        "Carlos Rodriguez",
-                                        "Lucas Plapp",
-                                        "Ben Turner",
-                                        "Remco Evenepoel",
-                                        "Fausto Masnada",
-                                        "Ilan Van Wilder",
-                                        "Julian Alaphilippe",
-                                        "Remi Cavagna",
-                                        "Pieter Serry",
-                                        "Dries Devenyns",
-                                        "Louis Vervaeke",
-                                        "Luke Durbridge",
-                                        "Simon Yates",
-                                        "Lucas Hamilton",
-                                        "Kelland O'Brien",
-                                        "Kaden Groves",
-                                        "Michael Hepburn",
-                                        "Lawson Craddock",
-                                        "Callum Scotson",
-                                        "Brandon McNulty",
-                                        "Marc Soler",
-                                        "Juan Ayuso",
-                                        "Joao Almeida",
-                                        "Ivo Oliveira",
-                                        "Jan Polanc",
-                                        "Pascal Ackermann",
-                                        "Sebastian Molano",
-                                        "Bruno Armirail",
-                                        "Quentin Pacher",
-                                        "Rudy Molard",
-                                        "Thibaut Pinot",
-                                        "Sebastien Reichenbach",
-                                        "Jake Stewart",
-                                        "Miles Scotson",
-                                        "Fabian Lienhard",
-                                        "Wilco Kelderman",
-                                        "Danny van Poppel",
-                                        "Ryan Mullen",
-                                        "Sergio Higuita",
-                                        "Jai Hindley",
-                                        "Sam Bennett",
-                                        "Matteo Fabbro",
-                                        "Jonas Koch",
-                                        "Alex Kirsch",
-                                        "Mads Pedersen",
-                                        "Juan Pedro Lopez",
-                                        "Kenny Elissonde",
-                                        "Julien Bernard",
-                                        "Dario Cataldo",
-                                        "Daan Hoole",
-                                        "Antonio Tiberi",
-                                        "Mikel Landa",
-                                        "Luis LeÃ³n SÃ¡nchez",
-                                        "Wout Poels",
-                                        "Santiago Buitrago",
-                                        "Edoardo Zambanini",
-                                        "Fred Wright",
-                                        "Gino MÃ¤der",
-                                        "Jasha SÃ¼tterlin",
-                                        "JosÃ© Joaquin Rojas",
-                                        "Nelson Oliveira",
-                                        "Enric Mas",
-                                        "Alejandro Valverde",
-                                        "Carlos Verona",
-                                        "Mathias Norsgaard",
-                                        "Lluis Mas",
-                                        "Gregor Muhlberger",
-                                        "Miguel Ãngel LÃ³pez",
-                                        "Harold Tejada",
-                                        "Samuele Battistella",
-                                        "Vincenzo Nibali",
-                                        "Alexey Lutsenko",
-                                        "David De La Cruz",
-                                        "Yevgeniy Fedorov",
-                                        "Vadim Pronskiy",
-                                        "Jonas Iversby Hvideberg",
-                                        "Mark Donovan",
-                                        "Joris Nieuwenhuis",
-                                        "Marco Brenner",
-                                        "Nikias Arndt",
-                                        "Thymen Arensman",
-                                        "Henri Vandenabeele",
-                                        "John Degenkolb",
-                                        "Nicolas Prodhomme",
-                                        "Andrea Vendrame",
-                                        "Ben O'Connor",
-                                        "Bob Jungels",
-                                        "ClÃ©ment Champoussin",
-                                        "Nans Peters",
-                                        "Antoine Raugel",
-                                        "Jaakko HÃ¤nninen",
-                                        "Roger AdriÃ¡",
-                                        "Urko Berrade",
-                                        "Francisco GalvÃ¡n",
-                                        "Pau Miquel Delgado",
-                                        "Hector Carretero",
-                                        "RaÃºl GarcÃ­a",
-                                        "Vojtech Repa",
-                                        "JosÃ© FÃ©lix Parra",
-                                        "Robert Stannard",
-                                        "Jay Vine",
-                                        "Gianni Vermeersch",
-                                        "Jimmy Janssens",
-                                        "Xandro Meurisse",
-                                        "Tim Merlier",
-                                        "Lionel Taminiaux",
-                                        "Floris De Tier"
+                                        "Jumbo-Visma",
+                                        "INEOS Grenadiers",
+                                        "Quick-Step Alpha Vinyl Team",
+                                        "Team BikeExchange-Jayco",
+                                        "UAE Team Emirates",
+                                        "Groupama-FDJ",
+                                        "BORA-hansgrohe",
+                                        "Trek-Segafredo",
+                                        "Bahrain Victorious",
+                                        "Movistar Team",
+                                        "Astana Qazaqstan Team",
+                                        "Team DSM",
+                                        "AG2R CitroÃ«n Team",
+                                        "Equipo Kern Pharma",
+                                        "Alpecin-Deceuninck"
                                     ],
                                     "GC": [
                                         "Robert Gesink",
@@ -16888,18 +16789,18 @@
             },
             "11": {
                 "OneDay": {
-                    "finished": false
+                    "finished": true
                 },
                 "StageRace": {
-                    "finished": false
+                    "finished": true
                 }
             },
             "12": {
                 "OneDay": {
-                    "finished": false
+                    "finished": true
                 },
                 "StageRace": {
-                    "finished": false
+                    "finished": true
                 }
             }
         }
@@ -17584,7 +17485,7 @@
                     "ID": "28133",
                     "Riders": [
                         "Clément Alleno",
-                        "Rodrigo Alvarez Rodriguez",
+                        "Rodrigo Alvarez",
                         "Antonio Angulo",
                         "Mario Aparicio",
                         "Andres Ardila",
@@ -17762,6 +17663,7 @@
                         "Scott McGill",
                         "Barnabas Peak",
                         "Ben Perry",
+                        "Sebastian Schönberger",
                         "Embret Svestad-Bårdseng",
                         "Gijs Van Hoecke",
                         "Sasha Weemaes"
@@ -18941,6 +18843,82 @@
                             },
                             "02": {
                                 "StagePlace": "Mataró-Barcelona",
+                                "Standings": {}
+                            },
+                            "03": {
+                                "StagePlace": "Súria-Arinsal",
+                                "Standings": {}
+                            },
+                            "04": {
+                                "StagePlace": "Andorra la Vella-Tarragona",
+                                "Standings": {}
+                            },
+                            "05": {
+                                "StagePlace": "Morella-Burriana",
+                                "Standings": {}
+                            },
+                            "06": {
+                                "StagePlace": "La Vall d'Uixó-Observatorio Astrofísico de Javalambre",
+                                "Standings": {}
+                            },
+                            "07": {
+                                "StagePlace": "Utiel-Oliva",
+                                "Standings": {}
+                            },
+                            "08": {
+                                "StagePlace": "Dénia-Xorret de Catí",
+                                "Standings": {}
+                            },
+                            "09": {
+                                "StagePlace": "Cartagena-Caravaca de la Cruz",
+                                "Standings": {}
+                            },
+                            "10": {
+                                "StagePlace": "Valladolid-Valladolid",
+                                "Standings": {}
+                            },
+                            "11": {
+                                "StagePlace": "Lerma-La Laguna Negra",
+                                "Standings": {}
+                            },
+                            "12": {
+                                "StagePlace": "Ólvega-Zaragoza",
+                                "Standings": {}
+                            },
+                            "13": {
+                                "StagePlace": "Formigal-Col du Tourmalet",
+                                "Standings": {}
+                            },
+                            "14": {
+                                "StagePlace": "Sauveterre-de-Béarn-Larra-Belagua",
+                                "Standings": {}
+                            },
+                            "15": {
+                                "StagePlace": "Pamplona-Lekunberri",
+                                "Standings": {}
+                            },
+                            "16": {
+                                "StagePlace": "Liencres-Bejes",
+                                "Standings": {}
+                            },
+                            "17": {
+                                "StagePlace": "Ribadesella-Altu de L'Angliru",
+                                "Standings": {}
+                            },
+                            "18": {
+                                "StagePlace": "Pola de Allande-La Cruz de Linares",
+                                "Standings": {}
+                            },
+                            "19": {
+                                "StagePlace": "La Bañeza-Íscar",
+                                "Standings": {}
+                            },
+                            "20": {
+                                "StagePlace": "Manzanares El Real-Guadarrama",
+                                "Standings": {}
+                            },
+                            "21": {
+                                "StagePlace": "Madrid-Madrid",
                                 "Standings": {}
                             }
                         },
