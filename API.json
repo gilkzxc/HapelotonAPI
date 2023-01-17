@@ -1,5 +1,5 @@
 {
-    "lastUpdateDateTime": "2023-01-16 20:00:00.000002",
+    "lastUpdateDateTime": "2023-01-17 20:00:00.000003",
     "2022": {
         "Teams": {
             "WorldTeam": {
@@ -16884,6 +16884,7 @@
                         "Samuele Battistella",
                         "Manuele Boaro",
                         "Gleb Brussenskiy",
+                        "Mark Cavendish",
                         "Igor Chzhan",
                         "David De La Cruz",
                         "Joe Dombrowski",
@@ -17962,7 +17963,34 @@
                         "stages": {
                             "00": {
                                 "StagePlace": "Adelaide-Adelaide",
-                                "Standings": {}
+                                "Standings": {
+                                    "Stage": [
+                                        "Alberto Bettiol",
+                                        "Magnus Sheffield",
+                                        "Julius Johansen",
+                                        "Kaden Groves",
+                                        "Samuel Gaze",
+                                        "Hugo Page",
+                                        "Marius Mayrhofer",
+                                        "Jannik Steimle",
+                                        "Jay Vine",
+                                        "Michael Matthews"
+                                    ],
+                                    "GC": [
+                                        "Alberto Bettiol",
+                                        "Magnus Sheffield",
+                                        "Julius Johansen",
+                                        "Kaden Groves",
+                                        "Samuel Gaze",
+                                        "Hugo Page",
+                                        "Marius Mayrhofer",
+                                        "Jannik Steimle",
+                                        "Jay Vine",
+                                        "Michael Matthews"
+                                    ],
+                                    "Points": [],
+                                    "Mountain": []
+                                }
                             },
                             "01": {
                                 "StagePlace": "Tanunda-Tanunda",
@@ -18012,7 +18040,10 @@
                             "1",
                             "Pro"
                         ],
-                        "ID": "121"
+                        "ID": "121",
+                        "raceLevel": "1.Pro",
+                        "results": [],
+                        "finished": false
                     },
                     "Omloop Het Nieuwsblad": {
                         "dates": [
@@ -18045,7 +18076,10 @@
                             "1",
                             "Pro"
                         ],
-                        "ID": "432"
+                        "ID": "432",
+                        "raceLevel": "1.Pro",
+                        "results": [],
+                        "finished": false
                     }
                 },
                 "StageRace": {
@@ -18087,7 +18121,10 @@
                             "1",
                             "UWT"
                         ],
-                        "ID": "54"
+                        "ID": "54",
+                        "raceLevel": "1.WT2",
+                        "results": [],
+                        "finished": false
                     },
                     "Milano - Torino": {
                         "dates": [
@@ -18142,7 +18179,10 @@
                             "1",
                             "UWT"
                         ],
-                        "ID": "4"
+                        "ID": "4",
+                        "raceLevel": "1.WT1",
+                        "results": [],
+                        "finished": false
                     },
                     "Minerva Classic Brugge-De Panne": {
                         "dates": [
@@ -18164,7 +18204,10 @@
                             "1",
                             "UWT"
                         ],
-                        "ID": "47"
+                        "ID": "47",
+                        "raceLevel": "1.WT2",
+                        "results": [],
+                        "finished": false
                     },
                     "GP Industria & Artigianato": {
                         "dates": [
@@ -18186,7 +18229,10 @@
                             "1",
                             "UWT"
                         ],
-                        "ID": "75"
+                        "ID": "75",
+                        "raceLevel": "1.WT3",
+                        "results": [],
+                        "finished": false
                     }
                 },
                 "StageRace": {
@@ -18357,7 +18403,10 @@
                             "1",
                             "UWT"
                         ],
-                        "ID": "5"
+                        "ID": "5",
+                        "raceLevel": "1.WT1",
+                        "results": [],
+                        "finished": false
                     },
                     "Scheldeprijs": {
                         "dates": [
@@ -18379,7 +18428,10 @@
                             "1",
                             "UWT"
                         ],
-                        "ID": "8"
+                        "ID": "8",
+                        "raceLevel": "1.WT1",
+                        "results": [],
+                        "finished": false
                     },
                     "Brabantse Pijl": {
                         "dates": [
@@ -18401,7 +18453,10 @@
                             "1",
                             "UWT"
                         ],
-                        "ID": "9"
+                        "ID": "9",
+                        "raceLevel": "1.WT1",
+                        "results": [],
+                        "finished": false
                     },
                     "La Fleche Wallonne": {
                         "dates": [
@@ -18412,7 +18467,10 @@
                             "1",
                             "UWT"
                         ],
-                        "ID": "10"
+                        "ID": "10",
+                        "raceLevel": "1.WT2",
+                        "results": [],
+                        "finished": false
                     },
                     "Liège-Bastogne-Liège": {
                         "dates": [
@@ -18423,7 +18481,10 @@
                             "1",
                             "UWT"
                         ],
-                        "ID": "11"
+                        "ID": "11",
+                        "raceLevel": "1.WT1",
+                        "results": [],
+                        "finished": false
                     }
                 },
                 "StageRace": {
@@ -18645,7 +18706,10 @@
                             "2",
                             "UWT"
                         ],
-                        "ID": "16"
+                        "ID": "16",
+                        "raceLevel": "2.WT1",
+                        "stages": {},
+                        "finished": false
                     }
                 }
             },
@@ -18791,7 +18855,10 @@
                         "category": [
                             "WCRR"
                         ],
-                        "ID": "26"
+                        "ID": "26",
+                        "raceLevel": "WCRR",
+                        "results": [],
+                        "finished": false
                     },
                     "BEMER Cyclassics": {
                         "dates": [
