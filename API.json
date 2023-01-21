@@ -1,5 +1,5 @@
 {
-    "lastUpdateDateTime": "2023-01-20 23:54:52.025637",
+    "lastUpdateDateTime": "2023-01-21 13:22:05.843794",
     "2022": {
         "Teams": {
             "WorldTeam": {
@@ -18148,7 +18148,56 @@
                             },
                             "04": {
                                 "StagePlace": "Port Willunga-Willunga",
-                                "Standings": {}
+                                "Standings": {
+                                    "Stage": [
+                                        "Bryan Coquard",
+                                        "Alberto Bettiol",
+                                        "Hugo Page",
+                                        "Paul PenhoÃ«t",
+                                        "Corbin Strong",
+                                        "Michael Matthews",
+                                        "Dorian Godon",
+                                        "Marius Mayrhofer",
+                                        "Kim Heiduk",
+                                        "Caleb Ewan"
+                                    ],
+                                    "GC": [
+                                        "Jay Vine",
+                                        "Simon Yates",
+                                        "Pello Bilbao",
+                                        "Magnus Sheffield",
+                                        "Mauro Schmid",
+                                        "Ethan Hayter",
+                                        "Sven Erik BystrÃ¸m",
+                                        "Hugo Page",
+                                        "Antonio Tiberi",
+                                        "Ben O'Connor"
+                                    ],
+                                    "Points": [
+                                        "Michael Matthews",
+                                        "Caleb Ewan",
+                                        "Paul PenhoÃ«t",
+                                        "Hugo Page",
+                                        "Jay Vine",
+                                        "Bryan Coquard",
+                                        "Simon Yates",
+                                        "Corbin Strong",
+                                        "Rohan Dennis",
+                                        "Phil Bauhaus"
+                                    ],
+                                    "Mountain": [
+                                        "Mikkel Honore",
+                                        "Jay Vine",
+                                        "Simon Yates",
+                                        "Fabio Felline",
+                                        "Lucas Plapp",
+                                        "Alessandro Covi",
+                                        "Dmitriy Gruzdev",
+                                        "Jai Hindley",
+                                        "Pello Bilbao",
+                                        "Marc Hirschi"
+                                    ]
+                                }
                             },
                             "05": {
                                 "StagePlace": "Unley-Mount Lofty",
